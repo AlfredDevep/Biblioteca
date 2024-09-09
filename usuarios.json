@@ -1,0 +1,86 @@
+[
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh",
+        "librosPrestados": [],
+        "librosReservados": [],
+        "librosFavoritos": [],
+        "librosLeidos": []
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh",
+        "librosPrestados": [],
+        "librosReservados": [],
+        "librosFavoritos": [],
+        "librosLeidos": []
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh",
+        "librosPrestados": null,
+        "librosReservados": null,
+        "librosFavoritos": null,
+        "librosLeidos": null
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    },
+    {
+        "id": "123",
+        "nombre": "Criss",
+        "apellido": "Mart",
+        "email": "josea@gmail.com",
+        "telefono": 23456657,
+        "direccion": "123fjhslk jfhlkjfh"
+    }
+]

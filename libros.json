@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1ac2a6dab6f14ff40aab5edadad666ee",
+        "titulo": "El principito",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "categoria": "Terror",
+        "disponible": "true",
+        "prestadoPor": "Juan Perez",
+        "fechaPrestamo": "2020-10-10",
+        "fechaDevolucion": "2020-10-20",
+        "estado": "Prestado",
+        "idBiblioteca": "1",
+        "idUsuario": "1",
+        "idCategoria": "1",
+        "idAutor": "1",
+        "idEditorial": "1",
+        "idPrestamo": "1"
+    }
+]
